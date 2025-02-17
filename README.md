@@ -1,7 +1,13 @@
-Demo Project[https://alirezajani.github.io/gardeshgari--tailwind/]
+# gardeshgari
 
-Created - 2024
 
-Technologies Used - Html , css , tailwind , javascript
+- [Demo Project](https://alirezajani.github.io/gardeshgari--tailwind/)
 
-Role - Frontend
+
+- Created - 2025
+
+- Technologies Used - Html , css , tailwind
+
+- Role - Frontend
+
+- How to reach me : with my gmail (alirezajani611@gmail.com)
