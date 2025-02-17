@@ -1,0 +1,55 @@
+.gradient {
+  background: linear-gradient(
+    180deg,
+    rgba(159, 159, 159, 0) 0%,
+    rgba(0, 0, 0, 0.96875) 106.47%
+  )
+}
+.shadowMidlle{
+  box-shadow: 0px 12.07px 172.44px 0px rgba(0, 0, 0, 0.06);
+  
+}
+.boxMidllsahadow{
+  box-shadow: 0px -25px 9px -20px rgba(233,233,233,1);
+}
+.circlegradeint1{
+  background: linear-gradient(90deg, #FFFFFF 0%, #5FA19F 100%);
+
+}
+.circlegradeint2{
+  background: linear-gradient(90deg, #FFF9ED 0%, #DFB256 100%);
+
+
+}
+.circlegradeint3{
+  background: linear-gradient(90deg, #FFFFFF 0%, #8A90AC 100%);
+
+
+}
+.pcbg{
+  background-image: url(../img/kohpc.png);
+  background-size: cover;
+}
+.mbbg{
+  background-image: url(../img/kohmobile.png);
+  background-size: cover;
+
+}
+.shadowMapDiv{
+  box-shadow: 0px 9.5px 162.69px 0px rgba(0, 0, 0, 0.08);
+  /* background-color: rgb(228, 228, 228); */
+
+}
+.comentshadow{
+  box-shadow: 0px 6px 54.5px 0px rgba(0, 0, 0, 0.03);
+}
+
+.videoBg{
+  background-color: rgba(0, 0, 0, 0.44);
+}
+.middleVideoBg{
+  box-shadow: 0px 9.5px 162.69px 0px rgba(0, 0, 0, 0.12);
+  background-color: rgba(0, 0, 0, 0.44);
+
+  backdrop-filter:grayscale(1);
+}
